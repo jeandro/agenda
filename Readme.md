@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandro/agenda/blob/master/LICENSELICENSELICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandro/agenda/blob/master/LICENSE) 
 
 # Sobre o projeto
 
@@ -12,7 +12,6 @@ Desenvolvimento de um pequeno projeto CRUD básico.
 - JPA / Hibernate
 - Maven
 - Swagger
-- flyway
 - MySql
 - Lombok
 
