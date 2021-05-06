@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/l/react)](https://bitbucket.org/78954621/backendseniorjeandrocorreia/commits/a426e2548748bce15d25e5d87556662f31a07003#chg-LICENSELICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jeandro/agenda/blob/master/LICENSELICENSELICENSE) 
 
 # Sobre o projeto
 
